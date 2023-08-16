@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737449125321",
+    "firebase_url": "https://teste-a5741.firebaseio.com",
+    "project_id": "teste-a5741",
+    "storage_bucket": "teste-a5741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737449125321:android:f33a9863232611d2a2f418",
+        "android_client_info": {
+          "package_name": "com.creatitech.buddyhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737449125321-r6d2ukl43t9vqbl7r3rucqibkqfp25e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjyRmbGCw4883kxZDCIcU0bLyroE914mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737449125321-r6d2ukl43t9vqbl7r3rucqibkqfp25e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
